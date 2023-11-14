@@ -1,0 +1,1246 @@
+repo_name: mcabreradev/angular-cli
+report_id: 6dc15fe20813da19c6c60ffe4eb2e6e4
+repo_type: Public
+timestamp: '2023-11-14T15:32:41+00:00'
+requested_by: jkuri
+provider: github
+branch: master
+detected_tools_count: 80
+tools:
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  version: 4.0.5
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-05-10 23:58:48.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source: Repo Metadata
+- name: Ember.js
+  description: A JavaScript framework for creating ambitious web apps
+  website_url: http://emberjs.com/
+  version: 2.5.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/1018/3s1seyc0csl75btyw1vl.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: jkuri
+  last_updated_on: 2016-04-28 18:00:11.000000000 Z
+- name: Less
+  description: The dynamic stylesheet language
+  website_url: http://lesscss.org/
+  version: 2.7.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: rodyhaddad
+  last_updated_on: 2015-03-24 05:15:45.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source: package.json
+  last_updated_by: rodyhaddad
+  last_updated_on: 2015-03-24 05:15:45.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: rodyhaddad
+  last_updated_on: 2015-03-24 05:15:45.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source: package.json
+  last_updated_by: rodyhaddad
+  last_updated_on: 2015-03-24 05:15:45.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Istanbul
+  description: A JS code coverage tool written in JS
+  website_url: http://gotwarlost.github.io/istanbul/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source: package.json
+  last_updated_by: Sean Larkin
+  last_updated_on: 2016-08-08 15:14:29.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 2.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Jeff Cross
+  last_updated_on: 2016-06-23 00:40:43.000000000 Z
+- name: PhantomJS
+  description: Scriptable Headless WebKit
+  website_url: https://phantomjs.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/1832/phantomjs.png
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: Protractor
+  description: End-to-end test framework for Angular and AngularJS applications
+  website_url: http://angular.github.io/protractor
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 1.17.3
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Filipe Silva
+  last_updated_on: 2016-04-08 22:39:20.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source: package.json
+  last_updated_by: rodyhaddad
+  last_updated_on: 2015-03-24 05:15:45.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source: ".travis.yml"
+  last_updated_by: rodyhaddad
+  last_updated_on: 2015-08-27 16:14:54.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Sean Larkin
+  last_updated_on: 2016-08-08 15:14:29.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: rodyhaddad
+  last_updated_on: 2015-03-24 05:15:45.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.11.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source: package.json
+  last_updated_by: jkuri
+  last_updated_on: 2016-04-28 18:00:11.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.0.25
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: "@types/rimraf"
+  description: TypeScript definitions for rimraf
+  package_url: https://www.npmjs.com/@types/rimraf
+  version: 0.0.25
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16613/default_8bb559d64720e298d7108ccd64281e535c1c76a8.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: "@types/webpack"
+  description: TypeScript definitions for webpack
+  package_url: https://www.npmjs.com/@types/webpack
+  version: 1.12.22
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16215/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Sean Larkin
+  last_updated_on: 2016-08-08 15:14:29.000000000 Z
+- name: angular2-template-loader
+  description: Angular2 webpack loader that inlines your angular2 templates and stylesheets
+    into angular components
+  package_url: https://www.npmjs.com/angular2-template-loader
+  version: 0.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16579/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: awesome-typescript-loader
+  description: Awesome TS loader for webpack
+  package_url: https://www.npmjs.com/awesome-typescript-loader
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16085/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: compression-webpack-plugin
+  description: Prepare compressed versions of assets to serve them with Content-Encoding
+  package_url: https://www.npmjs.com/compression-webpack-plugin
+  version: 0.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16347/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Sean Larkin
+  last_updated_on: 2016-08-08 15:14:29.000000000 Z
+- name: conventional-changelog
+  description: Generate a changelog from git metadata
+  package_url: https://www.npmjs.com/conventional-changelog
+  version: 1.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16618/default_9012166d3e51cea5db6b4e69c80ace1c50b7509d.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans Larsen
+  last_updated_on: 2016-07-04 18:26:17.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Sean Larkin
+  last_updated_on: 2016-08-08 15:14:29.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 2.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: denodeify
+  description: Tool to turn functions with Node-style callback APIs into functions
+    that return Promises
+  package_url: https://www.npmjs.com/denodeify
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17873/default_92683d198e925e4a426d46140813c59a036e5287.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: ember-cli
+  description: Command line tool for developing ambitious ember.js apps
+  package_url: https://www.npmjs.com/ember-cli
+  version: 2.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16096/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: jkuri
+  last_updated_on: 2016-04-28 18:00:11.000000000 Z
+- name: enhanced-resolve
+  description: Offers a async require.resolve function
+  package_url: https://www.npmjs.com/enhanced-resolve
+  version: 2.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17890/default_d8903d76dded6915fe2da53370802097e7af05c2.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: exports-loader
+  description: Exports loader module for webpack
+  package_url: https://www.npmjs.com/exports-loader
+  version: 0.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16572/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: expose-loader
+  description: Expose loader module for webpack
+  package_url: https://www.npmjs.com/expose-loader
+  version: 0.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16741/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 0.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 0.30.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: jkuri
+  last_updated_on: 2016-04-28 18:00:11.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.0.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Mike Brocchi
+  last_updated_on: 2016-04-20 10:10:05.000000000 Z
+- name: handlebars
+  description: Handlebars provides the power necessary to let you build semantic templates
+    effectively with no frustration
+  package_url: https://www.npmjs.com/handlebars
+  version: 4.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-05-10 23:58:48.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in handlebars
+    cve_id: CVE-2019-19919
+    cve_url: https://github.com/advisories/GHSA-w457-6q6x-cgp9
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 4.3.0
+  - name: Remote code execution in handlebars when compiling templates
+    cve_id: CVE-2021-23369
+    cve_url: https://github.com/advisories/GHSA-f2jv-r9rf-7988
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 4.7.7
+  - name: Prototype Pollution in handlebars
+    cve_id: CVE-2021-23383
+    cve_url: https://github.com/advisories/GHSA-765h-qjxv-5f44
+    detected_date: Feb 11
+    severity: critical
+    first_patched: 4.7.7
+  - name: Arbitrary Code Execution in Handlebars
+    cve_id: CVE-2019-20920
+    cve_url: https://github.com/advisories/GHSA-3cqr-58rm-57f8
+    detected_date: Feb 11
+    severity: high
+    first_patched: 4.5.3
+  - name: Regular Expression Denial of Service in Handlebars
+    cve_id: CVE-2019-20922
+    cve_url: https://github.com/advisories/GHSA-62gr-4qp9-h98f
+    detected_date: Feb 11
+    severity: high
+    first_patched: 4.4.5
+  - name: Prototype Pollution in handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-q42p-pg8m-cqh6
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.0.14
+  - name: Arbitrary Code Execution in handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-2cf5-4w76-r9qv
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.5.2
+  - name: Prototype Pollution in handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-g9r4-xpmj-mj65
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.5.3
+  - name: Arbitrary Code Execution in handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-q2c6-c6pm-g3gh
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.5.3
+  - name: Remote code execution in Handlebars.js
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-6r5x-hmgg-7h53
+    detected_date: Aug 13
+    severity: moderate
+    first_patched: 4.1.0
+  - name: Denial of Service in handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-f52g-6jhx-586p
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.4.5
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 2.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Sean Larkin
+  last_updated_on: 2016-08-08 15:14:29.000000000 Z
+- name: istanbul-instrumenter-loader
+  description: Istanbul instrumenter loader for webpack
+  package_url: https://www.npmjs.com/istanbul-instrumenter-loader
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16220/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: json-loader
+  description: Json loader module for webpack
+  package_url: https://www.npmjs.com/json-loader
+  version: 0.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15995/default_200de1a6fc4121e019ce4a5b0cf9ad37c7756e2d.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: karma-sourcemap-loader
+  description: Karma plugin that locates and loads existing javascript source map
+    files
+  package_url: https://www.npmjs.com/karma-sourcemap-loader
+  version: 0.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16011/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Sean Larkin
+  last_updated_on: 2016-08-08 15:14:29.000000000 Z
+- name: karma-webpack
+  description: Use webpack with karma
+  package_url: https://www.npmjs.com/karma-webpack
+  version: 1.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15955/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Sean Larkin
+  last_updated_on: 2016-08-08 15:14:29.000000000 Z
+- name: less-loader
+  description: A Less loader for webpack. Compiles Less to CSS
+  package_url: https://www.npmjs.com/less-loader
+  version: 2.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15989/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: minimatch
+  description: A glob matcher in javascript
+  package_url: https://www.npmjs.com/minimatch
+  version: 3.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16195/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: chapplez
+  last_updated_on: 2016-03-15 15:12:51.000000000 Z
+  vulnerabilities:
+  - name: minimatch ReDoS vulnerability
+    cve_id: CVE-2022-3517
+    cve_url: https://github.com/advisories/GHSA-f8q6-p94x-37v3
+    detected_date: Oct 21
+    severity: high
+    first_patched: 3.0.5
+  - name: Regular Expression Denial of Service in minimatch
+    cve_id: CVE-2016-10540
+    cve_url: https://github.com/advisories/GHSA-hxm2-r34f-qmc5
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.0.2
+- name: mock-fs
+  description: A configurable mock file system. You know, for testing
+  package_url: https://www.npmjs.com/mock-fs
+  version: 3.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16607/default_8bb559d64720e298d7108ccd64281e535c1c76a8.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-13 21:19:43.000000000 Z
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 3.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation in node-sass
+    cve_id: CVE-2020-24025
+    cve_url: https://github.com/advisories/GHSA-r8f7-9pfq-mjmv
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 7.0.0
+  - name: Denial of Service in node-sass
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-9v62-24cr-58cx
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: npm
+  description: A package manager for JavaScript
+  package_url: https://www.npmjs.com/npm
+  version: 3.10.2
+  license: Artistic-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16105/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: rodyhaddad
+  last_updated_on: 2015-03-24 05:15:45.000000000 Z
+  vulnerabilities:
+  - name: npm Vulnerable to Global node_modules Binary Overwrite
+    cve_id: CVE-2019-16777
+    cve_url: https://github.com/advisories/GHSA-4328-8hgf-7wjr
+    detected_date: Aug 22
+    severity: high
+    first_patched: 6.13.4
+  - name: Incorrect Permission Assignment for Critical Resource in NPM
+    cve_id: CVE-2018-7408
+    cve_url: https://github.com/advisories/GHSA-ph34-pc88-72gc
+    detected_date: Jun 29
+    severity: high
+    first_patched: 5.7.1
+  - name: Arbitrary File Write in npm
+    cve_id: CVE-2019-16775
+    cve_url: https://github.com/advisories/GHSA-m6cx-g6qm-p2cx
+    detected_date: Aug 22
+    severity: high
+    first_patched: 6.13.3
+  - name: npm symlink reference outside of node_modules
+    cve_id: CVE-2019-16776
+    cve_url: https://github.com/advisories/GHSA-x8qc-rrcw-4r46
+    detected_date: Aug 22
+    severity: high
+    first_patched: 6.13.3
+  - name: npm CLI exposing sensitive information through logs
+    cve_id: CVE-2020-15095
+    cve_url: https://github.com/advisories/GHSA-93f3-23rq-pjfp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 6.14.6
+- name: object-assign
+  description: ES2015 `Object.assign
+  package_url: https://www.npmjs.com/object-assign
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16015/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Ciro Nunes
+  last_updated_on: 2016-03-20 16:33:58.000000000 Z
+- name: offline-plugin
+  description: Offline-plugin for webpack
+  package_url: https://www.npmjs.com/offline-plugin
+  version: 3.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18006/default_7826192e433c1035ad42082e7f65b825c34bb056.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: opn
+  description: Open stuff like URLs, files, executables. Cross-platform
+  package_url: https://www.npmjs.com/opn
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16099/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: rodyhaddad
+  last_updated_on: 2015-03-24 05:15:45.000000000 Z
+- name: parse5
+  description: HTML parser and serializer
+  package_url: https://www.npmjs.com/parse5
+  version: 2.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16753/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: phantomjs-polyfill
+  description: Polyfill for Function.prototype.bind
+  package_url: https://www.npmjs.com/phantomjs-polyfill
+  version: 0.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17058/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: phantomjs-prebuilt
+  description: Headless WebKit with JS API
+  package_url: https://www.npmjs.com/phantomjs-prebuilt
+  version: 2.1.7
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16054/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: postcss-loader
+  description: PostCSS loader for webpack
+  package_url: https://www.npmjs.com/postcss-loader
+  version: 0.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15876/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: raw-loader
+  description: A loader for webpack that allows importing files as a String
+  package_url: https://www.npmjs.com/raw-loader
+  version: 0.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16030/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: remap-istanbul
+  description: A tool for remapping Istanbul coverage via Source Maps
+  package_url: https://www.npmjs.com/remap-istanbul
+  version: 0.6.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16715/default_ee69dab268e6a52104564fd4259549f5b48a25d4.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: resolve
+  description: Resolve like require.resolve
+  package_url: https://www.npmjs.com/resolve
+  version: 1.1.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16128/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: rewire
+  description: Easy dependency injection for node.js unit testing
+  package_url: https://www.npmjs.com/rewire
+  version: 2.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16319/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: chapplez
+  last_updated_on: 2016-03-15 15:12:51.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.5.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: shelljs
+  description: Portable Unix shell commands for Node.js
+  package_url: https://www.npmjs.com/shelljs
+  version: 0.7.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: jkuri
+  last_updated_on: 2016-04-28 18:00:11.000000000 Z
+  vulnerabilities:
+  - name: Improper Privilege Management in shelljs
+    cve_id: CVE-2022-0144
+    cve_url: https://github.com/advisories/GHSA-4rq4-32rv-6wp6
+    detected_date: Jan 22
+    severity: high
+    first_patched: 0.8.5
+  - name: Improper Privilege Management in shelljs
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-64g7-mvw6-v9qj
+    detected_date: Jan 15
+    severity: moderate
+    first_patched: 0.8.5
+- name: source-map-loader
+  description: Extracts inlined source map and offers it to webpack
+  package_url: https://www.npmjs.com/source-map-loader
+  version: 0.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16190/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 0.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: stylus
+  description: Robust, expressive, and feature-rich CSS superset
+  package_url: https://www.npmjs.com/stylus
+  version: 0.54.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16131/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: stylus-loader
+  description: Stylus loader for webpack
+  package_url: https://www.npmjs.com/stylus-loader
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16232/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: through
+  description: Simplified stream construction
+  package_url: https://www.npmjs.com/through
+  version: 2.3.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16309/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: rodyhaddad
+  last_updated_on: 2015-08-17 15:17:59.000000000 Z
+- name: tree-kill
+  description: Kill trees of processes
+  package_url: https://www.npmjs.com/tree-kill
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17621/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Filipe Silva
+  last_updated_on: 2016-05-20 22:00:29.000000000 Z
+  vulnerabilities:
+  - name: 'Duplicate Advisory: tree-kill vulnerable to remote code execution'
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-mxq6-vrrr-ppmg
+    detected_date: Oct 20
+    severity: critical
+    first_patched: 
+  - name: Command Injection in tree-kill
+    cve_id: CVE-2019-15599
+    cve_url: https://github.com/advisories/GHSA-884p-74jh-xrg2
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.2.2
+- name: ts-helpers
+  description: Typescript helpers for compiling typescript while specifying `--noEmitHelpers`
+    within your `tsconfig.json`
+  package_url: https://www.npmjs.com/ts-helpers
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16605/default_8bb559d64720e298d7108ccd64281e535c1c76a8.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 0.8.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: tslint-loader
+  description: Tslint loader for webpack
+  package_url: https://www.npmjs.com/tslint-loader
+  version: 2.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16395/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: typedoc
+  description: Create api documentation for TypeScript projects
+  package_url: https://www.npmjs.com/typedoc
+  version: 0.4.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15983/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: url-loader
+  description: A loader for webpack which transforms files into base64 URIs
+  package_url: https://www.npmjs.com/url-loader
+  version: 0.5.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Hans
+  last_updated_on: 2016-07-27 00:06:39.000000000 Z
+- name: walk-sync
+  description: Get an array of recursive directory contents
+  package_url: https://www.npmjs.com/walk-sync
+  version: 0.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17846/default_369b3bf3ef062123a581e4817f09cb0004de7ff6.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: jkuri
+  last_updated_on: 2016-01-03 18:38:11.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Sean Larkin
+  last_updated_on: 2016-08-08 15:14:29.000000000 Z
+  vulnerabilities:
+  - name: Missing Origin Validation in webpack-dev-server
+    cve_id: CVE-2018-14732
+    cve_url: https://github.com/advisories/GHSA-cf66-xwfp-gvc4
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.1.11
+- name: webpack-md5-hash
+  description: Plugin to replace a standard webpack chunkhash with md5
+  package_url: https://www.npmjs.com/webpack-md5-hash
+  version: 0.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17779/default_a3a8e3ccb38174acb180f0920c5d4e2fea848911.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Sean Larkin
+  last_updated_on: 2016-08-08 15:14:29.000000000 Z
+- name: webpack-merge
+  description: Variant of merge that's useful for webpack configuration
+  package_url: https://www.npmjs.com/webpack-merge
+  version: 0.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15925/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Sean Larkin
+  last_updated_on: 2016-08-08 15:14:29.000000000 Z
