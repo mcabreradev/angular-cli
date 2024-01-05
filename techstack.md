@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mcabreradev/angular-cli is built on the following main stack:
+
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [Ember.js](http://emberjs.com/) – Javascript MVC Frameworks
 - [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
@@ -24,11 +25,13 @@ mcabreradev/angular-cli is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mcabreradev/angular-cli is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1018/3s1seyc0csl75btyw1vl.png' alt='Ember.js'/> [Ember.js](http://emberjs.com/) – Javascript MVC Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
@@ -51,14 +54,15 @@ mcabreradev/angular-cli is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mcabreradev/angular-cli](https://github.com/mcabreradev/angular-cli)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|80<br/>Tools used|11/14/23 <br/>Report generated|
+|81<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -269,9 +273,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (57)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (58)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (57)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (58)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -280,6 +284,7 @@ Full tech stack [here](/techstack.md)
 |[@types/webpack](https://www.npmjs.com/@types/webpack)|v1.12.22|08/08/16|Sean Larkin |MIT|N/A|
 |[angular2-template-loader](https://www.npmjs.com/angular2-template-loader)|v0.4.0|07/27/16|Hans |MIT|N/A|
 |[awesome-typescript-loader](https://www.npmjs.com/awesome-typescript-loader)|v2.1.1|07/27/16|Hans |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v1.1.3|04/28/16|jkuri |MIT|N/A|
 |[compression-webpack-plugin](https://www.npmjs.com/compression-webpack-plugin)|v0.3.1|08/08/16|Sean Larkin |MIT|N/A|
 |[conventional-changelog](https://www.npmjs.com/conventional-changelog)|v1.1.0|07/04/16|Hans Larsen |ISC|N/A|
 |[copy-webpack-plugin](https://www.npmjs.com/copy-webpack-plugin)|v3.0.1|08/08/16|Sean Larkin |MIT|N/A|
@@ -292,7 +297,7 @@ Full tech stack [here](/techstack.md)
 |[file-loader](https://www.npmjs.com/file-loader)|v0.8.5|07/27/16|Hans |MIT|N/A|
 |[fs-extra](https://www.npmjs.com/fs-extra)|v0.30.0|04/28/16|jkuri |MIT|N/A|
 |[glob](https://www.npmjs.com/glob)|v7.0.3|04/20/16|Mike Brocchi |ISC|N/A|
-|[handlebars](https://www.npmjs.com/handlebars)|v4.0.5|05/10/16|Hans |MIT|[CVE-2019-19919](https://github.com/advisories/GHSA-w457-6q6x-cgp9) (Critical)<br/>[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)<br/>[CVE-2019-20920](https://github.com/advisories/GHSA-3cqr-58rm-57f8) (High)<br/>[CVE-2019-20922](https://github.com/advisories/GHSA-62gr-4qp9-h98f) (High)<br/>[](https://github.com/advisories/GHSA-q42p-pg8m-cqh6) (High)<br/>[](https://github.com/advisories/GHSA-2cf5-4w76-r9qv) (High)<br/>[](https://github.com/advisories/GHSA-g9r4-xpmj-mj65) (High)<br/>[](https://github.com/advisories/GHSA-q2c6-c6pm-g3gh) (High)<br/>[](https://github.com/advisories/GHSA-6r5x-hmgg-7h53) (Moderate)<br/>[](https://github.com/advisories/GHSA-f52g-6jhx-586p) (Moderate)|
+|[handlebars](https://www.npmjs.com/handlebars)|v4.0.5|05/10/16|Hans |MIT|[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2019-19919](https://github.com/advisories/GHSA-w457-6q6x-cgp9) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)<br/>[](https://github.com/advisories/GHSA-q42p-pg8m-cqh6) (High)<br/>[CVE-2019-20920](https://github.com/advisories/GHSA-3cqr-58rm-57f8) (High)<br/>[CVE-2019-20922](https://github.com/advisories/GHSA-62gr-4qp9-h98f) (High)<br/>[](https://github.com/advisories/GHSA-2cf5-4w76-r9qv) (High)<br/>[](https://github.com/advisories/GHSA-g9r4-xpmj-mj65) (High)<br/>[](https://github.com/advisories/GHSA-q2c6-c6pm-g3gh) (High)<br/>[](https://github.com/advisories/GHSA-6r5x-hmgg-7h53) (Moderate)<br/>[](https://github.com/advisories/GHSA-f52g-6jhx-586p) (Moderate)|
 |[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v2.19.0|08/08/16|Sean Larkin |MIT|N/A|
 |[istanbul-instrumenter-loader](https://www.npmjs.com/istanbul-instrumenter-loader)|v0.2.0|07/27/16|Hans |MIT|N/A|
 |[json-loader](https://www.npmjs.com/json-loader)|v0.5.4|07/27/16|Hans |MIT|N/A|
@@ -336,4 +341,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
