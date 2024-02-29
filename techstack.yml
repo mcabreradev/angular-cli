@@ -2,7 +2,7 @@ repo_name: mcabreradev/angular-cli
 report_id: 6dc15fe20813da19c6c60ffe4eb2e6e4
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:45:04+00:00'
+timestamp: '2024-02-29T18:44:35+00:00'
 requested_by: jkuri
 provider: github
 branch: master
@@ -576,35 +576,23 @@ tools:
     severity: critical
     first_patched: 4.7.7
   - name: Prototype Pollution in handlebars
-    cve_id: CVE-2019-19919
-    cve_url: https://github.com/advisories/GHSA-w457-6q6x-cgp9
-    detected_date: Aug 22
-    severity: critical
-    first_patched: 4.3.0
-  - name: Prototype Pollution in handlebars
     cve_id: CVE-2021-23383
     cve_url: https://github.com/advisories/GHSA-765h-qjxv-5f44
     detected_date: Feb 11
     severity: critical
     first_patched: 4.7.7
   - name: Prototype Pollution in handlebars
-    cve_id: 
-    cve_url: https://github.com/advisories/GHSA-q42p-pg8m-cqh6
+    cve_id: CVE-2019-19919
+    cve_url: https://github.com/advisories/GHSA-w457-6q6x-cgp9
     detected_date: Aug 22
-    severity: high
-    first_patched: 4.0.14
+    severity: critical
+    first_patched: 4.3.0
   - name: Arbitrary Code Execution in Handlebars
     cve_id: CVE-2019-20920
     cve_url: https://github.com/advisories/GHSA-3cqr-58rm-57f8
     detected_date: Feb 11
     severity: high
     first_patched: 4.5.3
-  - name: Regular Expression Denial of Service in Handlebars
-    cve_id: CVE-2019-20922
-    cve_url: https://github.com/advisories/GHSA-62gr-4qp9-h98f
-    detected_date: Feb 11
-    severity: high
-    first_patched: 4.4.5
   - name: Arbitrary Code Execution in handlebars
     cve_id: 
     cve_url: https://github.com/advisories/GHSA-2cf5-4w76-r9qv
@@ -617,6 +605,18 @@ tools:
     detected_date: Aug 22
     severity: high
     first_patched: 4.5.3
+  - name: Prototype Pollution in handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-q42p-pg8m-cqh6
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.0.14
+  - name: Regular Expression Denial of Service in Handlebars
+    cve_id: CVE-2019-20922
+    cve_url: https://github.com/advisories/GHSA-62gr-4qp9-h98f
+    detected_date: Feb 11
+    severity: high
+    first_patched: 4.4.5
   - name: Arbitrary Code Execution in handlebars
     cve_id: 
     cve_url: https://github.com/advisories/GHSA-q2c6-c6pm-g3gh
