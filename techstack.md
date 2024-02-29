@@ -3,26 +3,26 @@
 ## Tech Stack
 mcabreradev/angular-cli is built on the following main stack:
 
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [Ember.js](http://emberjs.com/) – Javascript MVC Frameworks
 - [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [Ember.js](http://emberjs.com/) – Javascript MVC Frameworks
 - [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
 - [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Karma](http://karma-runner.github.io/) – Browser Testing
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
-- [PhantomJS](https://phantomjs.org/) – Headless Browsers
-- [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [ESLint](http://eslint.org/) – Code Review
-- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [TSLint](https://github.com/palantir/tslint) – Code Review
 - [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
+- [Chai](http://chaijs.com/) – Javascript Testing Framework
+- [ESLint](http://eslint.org/) – Code Review
+- [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
+- [Karma](http://karma-runner.github.io/) – Browser Testing
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [PhantomJS](https://phantomjs.org/) – Headless Browsers
+- [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
+- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- [TSLint](https://github.com/palantir/tslint) – Code Review
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -32,26 +32,26 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 mcabreradev/angular-cli is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1018/3s1seyc0csl75btyw1vl.png' alt='Ember.js'/> [Ember.js](http://emberjs.com/) – Javascript MVC Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1018/3s1seyc0csl75btyw1vl.png' alt='Ember.js'/> [Ember.js](http://emberjs.com/) – Javascript MVC Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'/> [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1754/protractor-logo1.png' alt='Protractor'/> [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1832/phantomjs.png' alt='PhantomJS'/> [PhantomJS](https://phantomjs.org/) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png' alt='Istanbul'/> [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png' alt='Istanbul'/> [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
+- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1832/phantomjs.png' alt='PhantomJS'/> [PhantomJS](https://phantomjs.org/) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/1754/protractor-logo1.png' alt='Protractor'/> [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -62,7 +62,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mcabreradev/angular-cli](https://github.com/mcabreradev/angular-cli)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|81<br/>Tools used|01/05/24 <br/>Report generated|
+|81<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -297,7 +297,7 @@ Full tech stack [here](/techstack.md)
 |[file-loader](https://www.npmjs.com/file-loader)|v0.8.5|07/27/16|Hans |MIT|N/A|
 |[fs-extra](https://www.npmjs.com/fs-extra)|v0.30.0|04/28/16|jkuri |MIT|N/A|
 |[glob](https://www.npmjs.com/glob)|v7.0.3|04/20/16|Mike Brocchi |ISC|N/A|
-|[handlebars](https://www.npmjs.com/handlebars)|v4.0.5|05/10/16|Hans |MIT|[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2019-19919](https://github.com/advisories/GHSA-w457-6q6x-cgp9) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)<br/>[](https://github.com/advisories/GHSA-q42p-pg8m-cqh6) (High)<br/>[CVE-2019-20920](https://github.com/advisories/GHSA-3cqr-58rm-57f8) (High)<br/>[CVE-2019-20922](https://github.com/advisories/GHSA-62gr-4qp9-h98f) (High)<br/>[](https://github.com/advisories/GHSA-2cf5-4w76-r9qv) (High)<br/>[](https://github.com/advisories/GHSA-g9r4-xpmj-mj65) (High)<br/>[](https://github.com/advisories/GHSA-q2c6-c6pm-g3gh) (High)<br/>[](https://github.com/advisories/GHSA-6r5x-hmgg-7h53) (Moderate)<br/>[](https://github.com/advisories/GHSA-f52g-6jhx-586p) (Moderate)|
+|[handlebars](https://www.npmjs.com/handlebars)|v4.0.5|05/10/16|Hans |MIT|[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)<br/>[CVE-2019-19919](https://github.com/advisories/GHSA-w457-6q6x-cgp9) (Critical)<br/>[CVE-2019-20920](https://github.com/advisories/GHSA-3cqr-58rm-57f8) (High)<br/>[](https://github.com/advisories/GHSA-2cf5-4w76-r9qv) (High)<br/>[](https://github.com/advisories/GHSA-g9r4-xpmj-mj65) (High)<br/>[](https://github.com/advisories/GHSA-q42p-pg8m-cqh6) (High)<br/>[CVE-2019-20922](https://github.com/advisories/GHSA-62gr-4qp9-h98f) (High)<br/>[](https://github.com/advisories/GHSA-q2c6-c6pm-g3gh) (High)<br/>[](https://github.com/advisories/GHSA-6r5x-hmgg-7h53) (Moderate)<br/>[](https://github.com/advisories/GHSA-f52g-6jhx-586p) (Moderate)|
 |[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v2.19.0|08/08/16|Sean Larkin |MIT|N/A|
 |[istanbul-instrumenter-loader](https://www.npmjs.com/istanbul-instrumenter-loader)|v0.2.0|07/27/16|Hans |MIT|N/A|
 |[json-loader](https://www.npmjs.com/json-loader)|v0.5.4|07/27/16|Hans |MIT|N/A|
